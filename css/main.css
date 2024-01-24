@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #333;
+}  
+
+ .hidden {
+    display: none;
+} 
+
+.font-effect-emboss {
+    text-align: center;
+    margin: 22px;
+    font-size: 24px;
+    color: #3e3e3e;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+
+#container {
+    margin: 20px auto;
+    width: 428px;
+    border: solid 1px #333;
+    background-image: url('../images/background.jpg');
+    border-radius: 10px;
+}
+
+#mainContent {
+        display: grid;
+        grid-template-columns: repeat(4, 85px);
+        grid-column-gap: 16px;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+
+ div{
+    grid-column: 1/-1;
+} 
+
+img {
+    /* margin-bottom: 1px; */
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px ;
+}
+
+#container10 {
+    margin: 20px auto;
+    width: 390px;
+    background: #8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 5px 6px 2px #000000;
+}
+
+#container1 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container2 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container3 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container4 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container5 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container6 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container7 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container8 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
+
+#container9 {
+    margin: 20px auto;
+    width: 390px;
+    background:#8c8c8c;
+    border-radius: 10px;
+    box-shadow: 1px 6px 6px 2px #000000;
+}
